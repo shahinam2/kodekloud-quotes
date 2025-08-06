@@ -279,6 +279,3 @@ A Collection of KodeKloud Quotes
 
 #93:  
 <img src="screenshots/(93).png" alt="Quote 93" width="600"/>
-
-#94:  
-<img src="screenshots/(94).png" alt="Quote 94" width="600"/>
